@@ -1,4 +1,0 @@
-Sitemap: http://errorbar.github.io/sitemapindex.xml
-
-User-Agent: *
-Host: errorbar.github.io
