@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Drew Leonard"  # (translatable)
 BLOG_TITLE = "Error Bar"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://errorbar.github.io/"
+SITE_URL = "http://errorbar.co.uk/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://github.com/errorbar/errorbar.github.io.git/"
@@ -827,12 +827,12 @@ CONTENT_FOOTER_FORMATS = {
 # systems.  The following comment systems are supported by Nikola:
 #   disqus, facebook, googleplus, intensedebate, isso, livefyre, muut
 # You can leave this option blank to disable comments.
-COMMENT_SYSTEM = "googleplus"
+COMMENT_SYSTEM = "disqus"
 # And you also need to add your COMMENT_SYSTEM_ID which
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
 # is in the manual.
-COMMENT_SYSTEM_ID = ""
+COMMENT_SYSTEM_ID = "errorbar.disqus.com/embed.js"
 
 # Enable annotations using annotateit.org?
 # If set to False, you can still enable them for individual posts and pages
