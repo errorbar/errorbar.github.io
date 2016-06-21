@@ -19,11 +19,11 @@ Buying the drinks at the Error Bar this week is Boris Johnson, on behalf of the 
 Several groups advocating Britain's exit from the EU have claimed that we need to "take back control", that the EU is fundamentally undemocratic and that we no longer get a say in our laws. They say that the system is broken and reform is impossible. But it's pretty easy to refute this by spending an hour on Google.
 
 ## Error propagation
-So on the face of it, arguing that we should vote to leave the EU is a bit silly, since authoritarian regimes tend not to give you that option. But setting that aside, let's look at the individual institutions that make up the EU and see how democratic each one is:
+So on the face of it, arguing that we should vote to leave the EU is a bit silly, since authoritarian regimes tend not to give you that option. But setting that aside, let's look at some of the individual institutions that make up the EU and see how democratic each one is:
 
 __European Council:__
 
-The European Council sets the policy agenda and priorities for the EU, but has no role in making new laws. It consists of the heads of state or government of each member state, plus a President (who is elected by the European Council) and the President of the European Commision (proposed by the European Council and approved by the European Parliament). The UK's representative on the European Council is the Prime Minister. Since one of the criteria for a state to join the EU is ["stable institutions guaranteeing democracy"](http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm), everyone on the European Council is elected by _somebody_.
+The European Council sets the policy agenda and priorities for the EU, but has no role in making new laws. It consists of the heads of state or government of each member state, plus a President (who is elected by the European Council) and the President of the European Commision (proposed by the European Council and approved by the European Parliament). The UK's representative on the European Council is the Prime Minister. Since one of the criteria for a state to join the EU is ["stable institutions guaranteeing democracy"](http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm), in theory everyone on the European Council is elected by _somebody_.
 
 __Council of the European Union:__
 
@@ -45,8 +45,10 @@ This is an easy one. Members of the European Parliament are directly elected by 
 So every major part of the EU is either made up of elected representatives or is accountable to them. Compared to the system in the UK, this is incredibly democratic. Our laws have to go through the mostly unelected House of Lords, except on rare occasions and except for laws about taxes and other financial issues. All laws have to be approved by the Queen, even if the Lords are bypassed. Our head of government is not actually elected - the Queen appoints the person most likely to command confidence in the House of Commons, which by convention is the leader of the party with the most MPs. The Monarch also technically has the power to choose or dismiss ministers, summon or dissolve Parliament, and declare war, amongst other things. In practice, of course, these powers are almost never used, but the whole system mostly rests on the Queen not wanting to cause a fuss.
 
 ## Last orders
-Most of this information came from either the [EU's website](http://europa.eu/about-eu/institutions-bodies/index_en.htm) or [Wikipedia](https://en.wikipedia.org/wiki/Institutions_of_the_European_Union), so see those places for more detail. The [Full Fact](https://fullfact.org/europe/how-eu-works/) website also has a lot of independently fact-checked info on the EU.
+Most of this information came from either the [EU's website](http://europa.eu/about-eu/institutions-bodies/index_en.htm) or [Wikipedia](https://en.wikipedia.org/wiki/Institutions_of_the_European_Union), so see those places for more detail. The [Full Fact](https://fullfact.org/europe/how-eu-works/) website also has a lot of independently fact-checked info on the EU. And if you're still worried about the level of democracy in the EU, speak to your local MEP about it.
 
-**TLDR:** To claim or suggest that the EU is wildly undemocratic is graffiti on the toilet wall - not worth paying any attention to.
+---
+
+**TL;DR:** To claim or suggest that the EU is wildly undemocratic is just drunken rambling - not worth paying any attention to.
 
 _Spotted an error? Evidence-based discussion welcome in the comments section._
