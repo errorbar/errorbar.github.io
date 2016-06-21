@@ -18,7 +18,7 @@ Buying the drinks at the Error Bar this week is Boris Johnson, on behalf of the 
 
 Several groups advocating Britain's exit from the EU have claimed that we need to "take back control", that the EU is fundamentally undemocratic and that we no longer get a say in our laws. They say that the system is broken and reform is impossible. But it's pretty easy to refute this by spending an hour on Google.
 
-## Error propagation
+## Error analysis
 So on the face of it, arguing that we should vote to leave the EU is a bit silly, since authoritarian regimes tend not to give you that option. But setting that aside, let's look at some of the individual institutions that make up the EU and see how democratic each one is:
 
 __European Council:__
