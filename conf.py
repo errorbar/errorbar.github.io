@@ -1071,7 +1071,24 @@ MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'extra']
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
-# BODY_END = ""
+BODY_END = """
+<!-- Piwik -->
+<script type="text/javascript">
+   var _paq = _paq || [];
+   _paq.push(['trackPageView']);
+   _paq.push(['enableLinkTracking']);
+   (function() {
+     var u="//cloud.cadair.com/analytics/";
+     _paq.push(['setTrackerUrl', u+'piwik.php']);
+     _paq.push(['setSiteId', 2]);
+     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+     g.type='text/javascript'; g.async=true; g.defer=true;
+     g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+   })();
+</script>
+<noscript><p><img src="//cloud.cadair.com/analytics/piwik.php?idsite=2" style="border:0;" alt="" /></p></noscript> 
+<!-- End Piwik Code -->
+"""
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.
